@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Outside.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Church.unity
+    guid: 3cc7dc87b6302a14597e9e1981892053
+  - enabled: 1
+    path: Assets/Scenes/Inn.unity
+    guid: 7af65bd986f752e41b0c1c3c70dce555
+  - enabled: 1
+    path: Assets/Scenes/New Day.unity
+    guid: cb6cc84b0b8e9664e939d6a155c2f96e
+  - enabled: 1
+    path: Assets/Scenes/Herbalist Hut.unity
+    guid: 6009a40d996562743a0544dedb957005
+  - enabled: 1
+    path: Assets/Scenes/Bakery.unity
+    guid: 4e88a8fd4f4ca0146a3bc21f2a0d39ab
+  - enabled: 1
+    path: Assets/Scenes/Barracks.unity
+    guid: 63185e81471eb6c4da3f2541110ff56f
+  - enabled: 1
+    path: Assets/Scenes/Forest.unity
+    guid: 76627e61f5d4dac45b3fa275f4a1e7a9
+  - enabled: 1
+    path: Assets/Scenes/Farm.unity
+    guid: 61cadac9fbd67534f9e65760621a542b
+  - enabled: 1
+    path: Assets/Scenes/Butcher.unity
+    guid: 85cac52088cc3344f87fa0a5aec79268
+  m_configObjects: {}
